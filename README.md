@@ -10,3 +10,6 @@
 [Python Pandas Data Analysis Data Engineer Matplotlib Colab Research Google Jupyter Notebook](https://github.com/vini-insight/Python_Pandas_Data_Analysis_Data_Engineer_Matplotlib_Colab_Research_Google_Jupyter_Notebook)
 
 [Big Data GCP dataproc spark hadoop](https://github.com/vini-insight/Big_Data_GCP_dataproc_spark_hadoop)
+
+[Big Data AWS EMR python](https://github.com/vini-insight/Big_Data_AWS_EMR_python)
+
